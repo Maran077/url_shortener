@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "LinkShorter",
+    "version": "1.0",
+    "description": "Welcome to LinkShorter.Shorten and Share Your Links with Ease",
+    "icons":{
+      "16":"s.jpg",
+      "32":"icon.jpg",
+      "48":"icon.jpg",
+      "128":"icon.jpg"
+    },
+    "permissions": [
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "index.html"
+    }
+   
+    
+}
+
